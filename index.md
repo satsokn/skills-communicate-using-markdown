@@ -8,3 +8,6 @@ h tests
 ```javascript
 var testV= "h word ";
 ```
+- [ ] check 1
+- [x] check 2
+- [ ] check 3 
